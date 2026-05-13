@@ -49,3 +49,17 @@ cat ~/episodes/episode_*.json
 ```
 
 Files are saved to `~/episodes/` with timestamps in the filename for chronological sorting.
+
+## Screenshots
+
+**Nodes running:**
+![nodes](screenshots/nodes_running.png)
+
+**Start recording:**
+![start](screenshots/start_recording.png)
+
+**Stop recording & save:**
+![stop](screenshots/stop_recording.png)
+
+**JSON output:**
+![output](screenshots/Final_Output.png)

@@ -14,8 +14,11 @@ computes forward kinematics, and records episodes to JSON.
 ## Forward Kinematics
 
 r = a2·cos(θ2) + a3·cos(θ2+θ3)
+
 x = cos(θ1)·r,  y = sin(θ1)·r
+
 z = d1 + a2·sin(θ2) + a3·sin(θ2+θ3)
+
 Link lengths: d1=0.5m, a2=0.4m, a3=0.3m
 
 ## Build & Run

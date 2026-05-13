@@ -64,5 +64,5 @@ Files are saved to `~/episodes/` with timestamps in the filename for chronologic
 **Stop recording & save:**
 ![stop](screenshots/stop_recording.png)
 
-**JSON output:**
+**Final Output:**
 ![output](screenshots/Final_Output.png)
